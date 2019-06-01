@@ -16,7 +16,7 @@ require('crypto').randomBytes(1)
 console.log('node %s, n=%d\n', process.version, n)
 
 suite
-  .add('pseudo-random-bytes', function () {
+  .add('pseudo-random-buffer', function () {
     prb(n)
   })
   .add('random-bytes-seed', function () {

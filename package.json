@@ -1,5 +1,5 @@
 {
-  "name": "pseudo-random-bytes",
+  "name": "pseudo-random-buffer",
   "version": "0.0.0",
   "description": "Get a random buffer based on a seed. Fast, not secure.",
   "license": "MIT",
@@ -30,7 +30,7 @@
   "engines": {
     "node": ">=8"
   },
-  "repository": "vweevers/pseudo-random-bytes",
-  "bugs": "https://github.com/vweevers/pseudo-random-bytes/issues",
-  "homepage": "https://github.com/vweevers/pseudo-random-bytes"
+  "repository": "vweevers/pseudo-random-buffer",
+  "bugs": "https://github.com/vweevers/pseudo-random-buffer/issues",
+  "homepage": "https://github.com/vweevers/pseudo-random-buffer"
 }
