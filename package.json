@@ -1,0 +1,36 @@
+{
+  "name": "pseudo-random-bytes",
+  "version": "0.0.0",
+  "description": "Get a random buffer based on a seed. Fast, not secure.",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && node test",
+    "hallmark": "hallmark --fix"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "xorshift": "~1.1.1"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "hallmark": "^0.1.0",
+    "random-bytes-seed": "^1.0.3",
+    "standard": "^12.0.1",
+    "tape": "^4.10.2"
+  },
+  "keywords": [
+    "bytes",
+    "random",
+    "seed",
+    "xorshift"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": "vweevers/pseudo-random-bytes",
+  "bugs": "https://github.com/vweevers/pseudo-random-bytes/issues",
+  "homepage": "https://github.com/vweevers/pseudo-random-bytes"
+}
