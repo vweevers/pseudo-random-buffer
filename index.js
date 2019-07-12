@@ -12,7 +12,7 @@ module.exports = function prb (seed) {
     let offset = 0
 
     while (offset < n) {
-      let [ a, b ] = xorshift.randomint()
+      let [a, b] = xorshift.randomint()
       let used = 0
 
       while (used < 4 && offset < n) {
