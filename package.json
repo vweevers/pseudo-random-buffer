@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "hallmark": "^1.0.0",
+    "hallmark": "^2.0.0",
     "random-bytes-seed": "^1.0.3",
     "standard": "^14.0.0",
     "tape": "^4.10.2"
