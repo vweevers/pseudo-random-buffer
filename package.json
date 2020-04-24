@@ -19,7 +19,7 @@
     "hallmark": "^2.0.0",
     "random-bytes-seed": "^1.0.3",
     "standard": "^14.0.0",
-    "tape": "^4.10.2"
+    "tape": "^5.0.0"
   },
   "keywords": [
     "bytes",
