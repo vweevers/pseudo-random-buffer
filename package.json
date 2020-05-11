@@ -18,7 +18,7 @@
     "benchmark": "^2.1.4",
     "hallmark": "^2.0.0",
     "random-bytes-seed": "^1.0.3",
-    "standard": "^14.0.0",
+    "standard": "^14.3.4",
     "tape": "^4.10.2"
   },
   "keywords": [
